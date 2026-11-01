@@ -1,0 +1,108 @@
+# Detection Engineering for Beginners
+
+1. Introduction  [s1.html]
+    001. Welcome  ->  https://drive.google.com/file/d/1pJn0I7BSPIcoi7nzKU71orOqGvrz-wVh/preview
+
+2. Theory  [s2.html]
+    001. Security Operations  ->  https://drive.google.com/file/d/1pDfZ0LTCiw1p7PiZILNaTdCW_LYNAEl0/preview
+    002. Role Variety  ->  https://drive.google.com/file/d/1pGt_0r0TGhTeOPD3YCTiz1_EKLV6jKal/preview
+    003. Security Incident and Event Management  ->  https://drive.google.com/file/d/1qQl7jW3dITfdHaPwq_jP2IwAhqAXZNa-/preview
+    004. The Detection Engineering Workflow  ->  https://drive.google.com/file/d/1qRMZnWyrtJtO0-JdFLmT_Qxacd1HvxaK/preview
+    005. What Makes a Good Detection  ->  https://drive.google.com/file/d/1pGeODc_-S_wQg0jZzU7QsjKI4uTDExBi/preview
+    006. Technology Stack for Detection Engineering  ->  https://drive.google.com/file/d/1qRZGX1sqg3GpBNgOt9d_dvFWqRM9wjy0/preview
+    007. MITRE ATT&CK Framework  ->  https://drive.google.com/file/d/1qS-tvtTj3ap9KD08RiwU1mmoecsR7RX0/preview
+    008. Navigating the MITRE ATT&CK Matrix  ->  https://drive.google.com/file/d/1qYzb3VWRM-kGxTSuSsW4qPdF2UyzBZyr/preview
+
+3. Lab Setup  [s3.html]
+    001. Lab Overview  ->  https://drive.google.com/file/d/1qRbLm1glJG7syE2TzcdYP0ESEiTIU6tq/preview
+    002. File Downloads  ->  https://drive.google.com/file/d/1qaR4k5FnwvnzzS0ZK5fYiOWBsxnB33PG/preview
+    003. Importing ParrotOS into VirtualBox  ->  https://drive.google.com/file/d/1qZ3ZMcGns3lMN_URNf7Y7X7IxQTO3fOi/preview
+    004. Importing Windows 11 into VirtualBox  ->  https://drive.google.com/file/d/1qp95mlOwDGGQcokgNLvh4yJjNEc76mul/preview
+    005. Ubuntu VirtualBox Installation  ->  https://drive.google.com/file/d/1qlPu2ljokp58nePuKUN0jNWmGaFVidad/preview
+    006. Creating a VM Snapshot  ->  https://drive.google.com/file/d/1qu36sgqnvCoT8laxr_q1zK2saQu-VWu3/preview
+    007. Disabling Windows Defender  ->  https://drive.google.com/file/d/1qtvExn0Hk9wO25Ci83JBIBrQykLyv2v2/preview
+    008. Installing Zeek  ->  https://drive.google.com/file/d/1qu6Rbwv5KQnojteWv_9eHC52zQNn3wt7/preview
+
+4. Elastic Setup  [s4.html]
+    001. Elastic Overview  ->  https://drive.google.com/file/d/1qwEbOoiboqFSteSjih4l13URlivMfaYw/preview
+    002. Signing Up for Elastic Trial  ->  https://drive.google.com/file/d/1qpPBGbcGLHNFcdP8aCfG8C5rnWn-R0D4/preview
+    003. Trial Extending and New Trials  ->  https://drive.google.com/file/d/1r9dbd_wncYmdP23zDK4HfykyTn1CfuSx/preview
+    004. Elastic Agent Installation  ->  https://drive.google.com/file/d/1rBhLONcL9aJ-_P2l8DNF6FrabUBzXJtH/preview
+    005. Confirming Zeek Logging With NMAP  ->  https://drive.google.com/file/d/1rCgpyCPH3e2BFNJmc18uJKDm9MvsCRht/preview
+    006. Testing Windows Elastic Agent Logging with EICAR File and PowerShell  ->  https://drive.google.com/file/d/1rCrPrKjVNEBj-EI4j_rjLfEHx7aEqkOG/preview
+    007. Sysmon Overview  ->  https://drive.google.com/file/d/1r1j9UjbgnaOzoPx9Nb2XAtrH4Q6aqyvN/preview
+    008. Installing and Configuring Sysmon  ->  https://drive.google.com/file/d/1rVNbh_rWJxGQs4SAmv6JTWnC51eKLVPk/preview
+    009. Testing Sysmon Logging with EICAR File and PowerShell  ->  https://drive.google.com/file/d/1rfYe12mKg7byi598DWN57k_iAV_8h2ZS/preview
+    010. Improving Our PowerShell Visibility  ->  https://drive.google.com/file/d/1rfutDQjrDmeOhxtDVNQVIuqheYQmt7z2/preview
+
+5. Attack Scenario 1  [s5.html]
+    001. Attack Overview  ->  https://drive.google.com/file/d/1pHJyPehGXj20sO1WxPqKghNKLOeYWoj6/preview
+    002. Setting up the Attack  ->  https://drive.google.com/file/d/1rk0HDMObom5IJIEPZsFe5z0NmzK1n39G/preview
+    003. Performing the Attack  ->  https://drive.google.com/file/d/1rpE1JCNo4tFLWIiaY2vA0K4Tar5ax7gq/preview
+    004. Creating our first Query Alert  ->  https://drive.google.com/file/d/1rqYRu4XM6wkD0vrWm8ORaDwODNskOvkI/preview
+    005. Creating our first Threshold Alert  ->  https://drive.google.com/file/d/1rtWB4hhlNgYf7flh0NPr3g8kZqrtaEtd/preview
+    006. Alert Confirmation  ->  https://drive.google.com/file/d/1ruFF80WsyEwhofIXAQ9YC_zOwB8bB990/preview
+
+6. Attack Scenario 2  [s6.html]
+    001. Overview  ->  https://drive.google.com/file/d/1qiutPqEHY2Kc30RwwQiqjzgYnl4kvYoM/preview
+    002. Creating and Executing Attack - Part 1  ->  https://drive.google.com/file/d/1ruyoLJswwYnTN0VSpZfQy85nQIafMiq3/preview
+    003. Creating and Executing Attack - Part 2  ->  https://drive.google.com/file/d/1s5dOACCCQSbPHVv_5G8iRTMx5NnKFVsu/preview
+    004. Reviewing the Attack  ->  https://drive.google.com/file/d/1sDATxY9p4Bi-ralYGdPJqkfoS-7BrDT1/preview
+    005. Creating Alerts  ->  https://drive.google.com/file/d/1sDT2AOjP6mfHA6Y_4VTIQ9t9DZvQN24j/preview
+    006. Confirming our Detections  ->  https://drive.google.com/file/d/1sEr5JXIVeYyIif0JwndRrJCGk0EH4rmf/preview
+
+7. Attack Scenario 3  [s7.html]
+    001. Overview  ->  https://drive.google.com/file/d/1rJylTEBIvVKJEjTv_Qs03eTNZAKrsokA/preview
+    002. Staging our Attack  ->  https://drive.google.com/file/d/1sR0mmBwvpoM8JHZrAA2GUgCI-UPQLL-x/preview
+    003. Creating and Executing our Attack  ->  https://drive.google.com/file/d/1sZXL9pUKz8GEw9N22aPKeveloNNu3qMd/preview
+    004. Creating our Detections  ->  https://drive.google.com/file/d/1saNe4STQ8kUUFNDUWPg5LOWTnRpwBTGf/preview
+    005. Confirming our Detections  ->  https://drive.google.com/file/d/1sdhT29INwB_N36MeyWt_7c2vDQzouoVN/preview
+
+8. Atomic Red Team  [s8.html]
+    001. Atomic Red Team Introduction  ->  https://drive.google.com/file/d/1sk_wPrQA37JyjlzewXL6g90DYz8uSZeN/preview
+    002. Installation  ->  https://drive.google.com/file/d/1sbfO6bBsWLUKvZj6awOwTsDU_Fup9LAC/preview
+    003. Running our First Atomic  ->  https://drive.google.com/file/d/1sl2iikdGudqqBx3g6rApXwL1BRXv6Gj2/preview
+    004. Writing our First Atomic  ->  https://drive.google.com/file/d/1srmPfXhiL4dVnKu3lJXrizMaRbgIxeUS/preview
+
+9. TOML  [s9.html]
+    001. TOML Overview  ->  https://drive.google.com/file/d/1swmtV0O7cAJ0debyNykMOQwTFMSPW21P/preview
+    002. Setting up a Development Environment  ->  https://drive.google.com/file/d/1syQ2P8YYuxjORDdQWWDqQlJIScsdoz5H/preview
+    003. Reviewing Elastic Rule TOML  ->  https://drive.google.com/file/d/1sz54R0BylB40ZcrXkvqRI4-K7hhn9B96/preview
+    004. Working with the Elastic Detection Rules Repo  ->  https://drive.google.com/file/d/1szs-AHH5pQ8fsomHBtqH2oe1iITEvZWU/preview
+    005. Validating TOML Syntax Using Taplo  ->  https://drive.google.com/file/d/1t0216qz2L1cp_1lvHvsqRnjyg_EJ5hsA/preview
+    006. Creating an Elastic TOML Template  ->  https://drive.google.com/file/d/1t7F1CUucDFwGPO2ptV8oFc7UFGJyJXMB/preview
+    007. Enforcing TOML Required Fields  ->  https://drive.google.com/file/d/1t89hbIoxNmZ0UhSj3yZrHezJALIR9i7v/preview
+    008. Creating a MITRE Object in Python  ->  https://drive.google.com/file/d/1tMQnspJuVk4YoqQQjwubJYPXFPmeS_nV/preview
+    009. Working with Multiple TOML Files  ->  https://drive.google.com/file/d/1tRXow7wqf1GedxjUVILpe4adYV0B-rPf/preview
+    010. Validating MITRE Data in our TOML - Part 1  ->  https://drive.google.com/file/d/1tSde-HezIUG0V3ULik894WYtAoopa1pk/preview
+    011. Validating MITRE Data in our TOML - Part 2  ->  https://drive.google.com/file/d/1tTXTegjo2bFo7rWgOoA8sxlkiQl9_nrE/preview
+    012. Converting and Validating our Detections  ->  https://drive.google.com/file/d/1tbddF3XL01RnyZuZmXGAtcccducqGhiD/preview
+
+10. Elastic API  [s10.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1teII1XN-4fwSuf3BWV9LjiVXFAivsDmS/preview
+    002. Obtaining your API Key  ->  https://drive.google.com/file/d/1tgmjyOWKg-pMErgYEPz0JC862jJOW9pN/preview
+    003. Pushing a Sample Rule  ->  https://drive.google.com/file/d/1ttz0FQspy5zfFdvi8Cj75AdYZEKLxYDx/preview
+    004. Writing a TOML to JSON Script  ->  https://drive.google.com/file/d/1u3zQyvWdcLocz2Xy5_aKHGB293JRop-X/preview
+    005. GET-ing Our First Rule and Managing Rule IDs  ->  https://drive.google.com/file/d/1u4x-kPc9YzWPtOIhyj0ip591akcomA0Q/preview
+    006. Working with our Custom Detections  ->  https://drive.google.com/file/d/1u6ZDFVW2U-MxZF1kkO_xYcNWHiun8luy/preview
+    007. Updating our Custom Detections  ->  https://drive.google.com/file/d/1u7Rln0HPWbtDDeEFPp3sRpgk0TXTpEcG/preview
+
+11. GitHub  [s11.html]
+    001. Overview  ->  https://drive.google.com/file/d/1uL-f8LDzjBzxkrRqw4lXFYsLXZXIW_i5/preview
+    002. GitHub Actions Introduction  ->  https://drive.google.com/file/d/1uLz28Z9MvQGPZ6t5jfmBgUkg54FRwkcD/preview
+    003. Uploading our Detections and Code  ->  https://drive.google.com/file/d/1uNT_iJ9W0luqbp6zEQ7_0mJaP1Ou3ldb/preview
+    004. Creating our TOML Validation Action  ->  https://drive.google.com/file/d/1uNlidZmtgFpNKx2Gt9v-ZA_YGpNFEr7t/preview
+    005. Enforcing Validation Checks  ->  https://drive.google.com/file/d/1uQjNa0laUL8AdJunAOuyIjld3tYLeRAx/preview
+    006. Syncing with Elastic - Part 1  ->  https://drive.google.com/file/d/1uWgP0x0DqaIy77hZjG_Zizff8jf3iUUI/preview
+    007. Syncing with Elastic - Part 2  ->  https://drive.google.com/file/d/1udbhPna74tvdAreBNA4IFvUMPJJFluGm/preview
+
+12. Metrics  [s12.html]
+    001. Overview  ->  https://drive.google.com/file/d/1umx2BtRw52qPBL0oxs98gYLYdkzL6T6f/preview
+    002. Converting our TOML to CSV  ->  https://drive.google.com/file/d/1uzdti6J_AaiomjpYuj4csbSSkdA1pU2p/preview
+    003. Converting TOML to MD  ->  https://drive.google.com/file/d/1v2jxXEWOXpyouqoIcslROlaCr1QxAdDm/preview
+    004. Converting our TOML to Att&ck Navigator .JSON  ->  https://drive.google.com/file/d/1v8O9V-Ae1HJq7w0qk0WjduJA_N8GEUyv/preview
+    005. Creating our Metrics GitHub Action  ->  https://drive.google.com/file/d/1vAuVohqVPqy23PhIkIl_tTF24atwQK1A/preview
+    006. Creating Status Badges  ->  https://drive.google.com/file/d/1vO7vi1Fcet0r2SmL14ZDnZl258KtNOtM/preview
+
+13. Conclusion  [s13.html]
+    001. Farewell - TCM Security Inc. - 1918x1080 572K  ->  https://drive.google.com/file/d/1vLgCHmNQnpAO7JC-4gyORw0FkqrxTw4x/preview

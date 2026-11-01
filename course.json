@@ -1,0 +1,667 @@
+{
+  "name": "Detection Engineering for Beginners",
+  "slug": "Detection_Engineering_for_Beginners",
+  "url": "https://LexCode30.github.io/Detection_Engineering_for_Beginners/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Welcome",
+          "id": "1pJn0I7BSPIcoi7nzKU71orOqGvrz-wVh",
+          "anchor": "v-1pJn0I7BSPIcoi7nzKU71orOqGvrz-wVh",
+          "href": "s1.html#v-1pJn0I7BSPIcoi7nzKU71orOqGvrz-wVh"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Theory",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Security Operations",
+          "id": "1pDfZ0LTCiw1p7PiZILNaTdCW_LYNAEl0",
+          "anchor": "v-1pDfZ0LTCiw1p7PiZILNaTdCW_LYNAEl0",
+          "href": "s2.html#v-1pDfZ0LTCiw1p7PiZILNaTdCW_LYNAEl0"
+        },
+        {
+          "number": 2,
+          "title": "Role Variety",
+          "id": "1pGt_0r0TGhTeOPD3YCTiz1_EKLV6jKal",
+          "anchor": "v-1pGt_0r0TGhTeOPD3YCTiz1_EKLV6jKal",
+          "href": "s2.html#v-1pGt_0r0TGhTeOPD3YCTiz1_EKLV6jKal"
+        },
+        {
+          "number": 3,
+          "title": "Security Incident and Event Management",
+          "id": "1qQl7jW3dITfdHaPwq_jP2IwAhqAXZNa-",
+          "anchor": "v-1qQl7jW3dITfdHaPwq_jP2IwAhqAXZNa-",
+          "href": "s2.html#v-1qQl7jW3dITfdHaPwq_jP2IwAhqAXZNa-"
+        },
+        {
+          "number": 4,
+          "title": "The Detection Engineering Workflow",
+          "id": "1qRMZnWyrtJtO0-JdFLmT_Qxacd1HvxaK",
+          "anchor": "v-1qRMZnWyrtJtO0-JdFLmT_Qxacd1HvxaK",
+          "href": "s2.html#v-1qRMZnWyrtJtO0-JdFLmT_Qxacd1HvxaK"
+        },
+        {
+          "number": 5,
+          "title": "What Makes a Good Detection",
+          "id": "1pGeODc_-S_wQg0jZzU7QsjKI4uTDExBi",
+          "anchor": "v-1pGeODc_-S_wQg0jZzU7QsjKI4uTDExBi",
+          "href": "s2.html#v-1pGeODc_-S_wQg0jZzU7QsjKI4uTDExBi"
+        },
+        {
+          "number": 6,
+          "title": "Technology Stack for Detection Engineering",
+          "id": "1qRZGX1sqg3GpBNgOt9d_dvFWqRM9wjy0",
+          "anchor": "v-1qRZGX1sqg3GpBNgOt9d_dvFWqRM9wjy0",
+          "href": "s2.html#v-1qRZGX1sqg3GpBNgOt9d_dvFWqRM9wjy0"
+        },
+        {
+          "number": 7,
+          "title": "MITRE ATT&CK Framework",
+          "id": "1qS-tvtTj3ap9KD08RiwU1mmoecsR7RX0",
+          "anchor": "v-1qS-tvtTj3ap9KD08RiwU1mmoecsR7RX0",
+          "href": "s2.html#v-1qS-tvtTj3ap9KD08RiwU1mmoecsR7RX0"
+        },
+        {
+          "number": 8,
+          "title": "Navigating the MITRE ATT&CK Matrix",
+          "id": "1qYzb3VWRM-kGxTSuSsW4qPdF2UyzBZyr",
+          "anchor": "v-1qYzb3VWRM-kGxTSuSsW4qPdF2UyzBZyr",
+          "href": "s2.html#v-1qYzb3VWRM-kGxTSuSsW4qPdF2UyzBZyr"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Lab Setup",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Lab Overview",
+          "id": "1qRbLm1glJG7syE2TzcdYP0ESEiTIU6tq",
+          "anchor": "v-1qRbLm1glJG7syE2TzcdYP0ESEiTIU6tq",
+          "href": "s3.html#v-1qRbLm1glJG7syE2TzcdYP0ESEiTIU6tq"
+        },
+        {
+          "number": 2,
+          "title": "File Downloads",
+          "id": "1qaR4k5FnwvnzzS0ZK5fYiOWBsxnB33PG",
+          "anchor": "v-1qaR4k5FnwvnzzS0ZK5fYiOWBsxnB33PG",
+          "href": "s3.html#v-1qaR4k5FnwvnzzS0ZK5fYiOWBsxnB33PG"
+        },
+        {
+          "number": 3,
+          "title": "Importing ParrotOS into VirtualBox",
+          "id": "1qZ3ZMcGns3lMN_URNf7Y7X7IxQTO3fOi",
+          "anchor": "v-1qZ3ZMcGns3lMN_URNf7Y7X7IxQTO3fOi",
+          "href": "s3.html#v-1qZ3ZMcGns3lMN_URNf7Y7X7IxQTO3fOi"
+        },
+        {
+          "number": 4,
+          "title": "Importing Windows 11 into VirtualBox",
+          "id": "1qp95mlOwDGGQcokgNLvh4yJjNEc76mul",
+          "anchor": "v-1qp95mlOwDGGQcokgNLvh4yJjNEc76mul",
+          "href": "s3.html#v-1qp95mlOwDGGQcokgNLvh4yJjNEc76mul"
+        },
+        {
+          "number": 5,
+          "title": "Ubuntu VirtualBox Installation",
+          "id": "1qlPu2ljokp58nePuKUN0jNWmGaFVidad",
+          "anchor": "v-1qlPu2ljokp58nePuKUN0jNWmGaFVidad",
+          "href": "s3.html#v-1qlPu2ljokp58nePuKUN0jNWmGaFVidad"
+        },
+        {
+          "number": 6,
+          "title": "Creating a VM Snapshot",
+          "id": "1qu36sgqnvCoT8laxr_q1zK2saQu-VWu3",
+          "anchor": "v-1qu36sgqnvCoT8laxr_q1zK2saQu-VWu3",
+          "href": "s3.html#v-1qu36sgqnvCoT8laxr_q1zK2saQu-VWu3"
+        },
+        {
+          "number": 7,
+          "title": "Disabling Windows Defender",
+          "id": "1qtvExn0Hk9wO25Ci83JBIBrQykLyv2v2",
+          "anchor": "v-1qtvExn0Hk9wO25Ci83JBIBrQykLyv2v2",
+          "href": "s3.html#v-1qtvExn0Hk9wO25Ci83JBIBrQykLyv2v2"
+        },
+        {
+          "number": 8,
+          "title": "Installing Zeek",
+          "id": "1qu6Rbwv5KQnojteWv_9eHC52zQNn3wt7",
+          "anchor": "v-1qu6Rbwv5KQnojteWv_9eHC52zQNn3wt7",
+          "href": "s3.html#v-1qu6Rbwv5KQnojteWv_9eHC52zQNn3wt7"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Elastic Setup",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Elastic Overview",
+          "id": "1qwEbOoiboqFSteSjih4l13URlivMfaYw",
+          "anchor": "v-1qwEbOoiboqFSteSjih4l13URlivMfaYw",
+          "href": "s4.html#v-1qwEbOoiboqFSteSjih4l13URlivMfaYw"
+        },
+        {
+          "number": 2,
+          "title": "Signing Up for Elastic Trial",
+          "id": "1qpPBGbcGLHNFcdP8aCfG8C5rnWn-R0D4",
+          "anchor": "v-1qpPBGbcGLHNFcdP8aCfG8C5rnWn-R0D4",
+          "href": "s4.html#v-1qpPBGbcGLHNFcdP8aCfG8C5rnWn-R0D4"
+        },
+        {
+          "number": 3,
+          "title": "Trial Extending and New Trials",
+          "id": "1r9dbd_wncYmdP23zDK4HfykyTn1CfuSx",
+          "anchor": "v-1r9dbd_wncYmdP23zDK4HfykyTn1CfuSx",
+          "href": "s4.html#v-1r9dbd_wncYmdP23zDK4HfykyTn1CfuSx"
+        },
+        {
+          "number": 4,
+          "title": "Elastic Agent Installation",
+          "id": "1rBhLONcL9aJ-_P2l8DNF6FrabUBzXJtH",
+          "anchor": "v-1rBhLONcL9aJ-_P2l8DNF6FrabUBzXJtH",
+          "href": "s4.html#v-1rBhLONcL9aJ-_P2l8DNF6FrabUBzXJtH"
+        },
+        {
+          "number": 5,
+          "title": "Confirming Zeek Logging With NMAP",
+          "id": "1rCgpyCPH3e2BFNJmc18uJKDm9MvsCRht",
+          "anchor": "v-1rCgpyCPH3e2BFNJmc18uJKDm9MvsCRht",
+          "href": "s4.html#v-1rCgpyCPH3e2BFNJmc18uJKDm9MvsCRht"
+        },
+        {
+          "number": 6,
+          "title": "Testing Windows Elastic Agent Logging with EICAR File and PowerShell",
+          "id": "1rCrPrKjVNEBj-EI4j_rjLfEHx7aEqkOG",
+          "anchor": "v-1rCrPrKjVNEBj-EI4j_rjLfEHx7aEqkOG",
+          "href": "s4.html#v-1rCrPrKjVNEBj-EI4j_rjLfEHx7aEqkOG"
+        },
+        {
+          "number": 7,
+          "title": "Sysmon Overview",
+          "id": "1r1j9UjbgnaOzoPx9Nb2XAtrH4Q6aqyvN",
+          "anchor": "v-1r1j9UjbgnaOzoPx9Nb2XAtrH4Q6aqyvN",
+          "href": "s4.html#v-1r1j9UjbgnaOzoPx9Nb2XAtrH4Q6aqyvN"
+        },
+        {
+          "number": 8,
+          "title": "Installing and Configuring Sysmon",
+          "id": "1rVNbh_rWJxGQs4SAmv6JTWnC51eKLVPk",
+          "anchor": "v-1rVNbh_rWJxGQs4SAmv6JTWnC51eKLVPk",
+          "href": "s4.html#v-1rVNbh_rWJxGQs4SAmv6JTWnC51eKLVPk"
+        },
+        {
+          "number": 9,
+          "title": "Testing Sysmon Logging with EICAR File and PowerShell",
+          "id": "1rfYe12mKg7byi598DWN57k_iAV_8h2ZS",
+          "anchor": "v-1rfYe12mKg7byi598DWN57k_iAV_8h2ZS",
+          "href": "s4.html#v-1rfYe12mKg7byi598DWN57k_iAV_8h2ZS"
+        },
+        {
+          "number": 10,
+          "title": "Improving Our PowerShell Visibility",
+          "id": "1rfutDQjrDmeOhxtDVNQVIuqheYQmt7z2",
+          "anchor": "v-1rfutDQjrDmeOhxtDVNQVIuqheYQmt7z2",
+          "href": "s4.html#v-1rfutDQjrDmeOhxtDVNQVIuqheYQmt7z2"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Attack Scenario 1",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Attack Overview",
+          "id": "1pHJyPehGXj20sO1WxPqKghNKLOeYWoj6",
+          "anchor": "v-1pHJyPehGXj20sO1WxPqKghNKLOeYWoj6",
+          "href": "s5.html#v-1pHJyPehGXj20sO1WxPqKghNKLOeYWoj6"
+        },
+        {
+          "number": 2,
+          "title": "Setting up the Attack",
+          "id": "1rk0HDMObom5IJIEPZsFe5z0NmzK1n39G",
+          "anchor": "v-1rk0HDMObom5IJIEPZsFe5z0NmzK1n39G",
+          "href": "s5.html#v-1rk0HDMObom5IJIEPZsFe5z0NmzK1n39G"
+        },
+        {
+          "number": 3,
+          "title": "Performing the Attack",
+          "id": "1rpE1JCNo4tFLWIiaY2vA0K4Tar5ax7gq",
+          "anchor": "v-1rpE1JCNo4tFLWIiaY2vA0K4Tar5ax7gq",
+          "href": "s5.html#v-1rpE1JCNo4tFLWIiaY2vA0K4Tar5ax7gq"
+        },
+        {
+          "number": 4,
+          "title": "Creating our first Query Alert",
+          "id": "1rqYRu4XM6wkD0vrWm8ORaDwODNskOvkI",
+          "anchor": "v-1rqYRu4XM6wkD0vrWm8ORaDwODNskOvkI",
+          "href": "s5.html#v-1rqYRu4XM6wkD0vrWm8ORaDwODNskOvkI"
+        },
+        {
+          "number": 5,
+          "title": "Creating our first Threshold Alert",
+          "id": "1rtWB4hhlNgYf7flh0NPr3g8kZqrtaEtd",
+          "anchor": "v-1rtWB4hhlNgYf7flh0NPr3g8kZqrtaEtd",
+          "href": "s5.html#v-1rtWB4hhlNgYf7flh0NPr3g8kZqrtaEtd"
+        },
+        {
+          "number": 6,
+          "title": "Alert Confirmation",
+          "id": "1ruFF80WsyEwhofIXAQ9YC_zOwB8bB990",
+          "anchor": "v-1ruFF80WsyEwhofIXAQ9YC_zOwB8bB990",
+          "href": "s5.html#v-1ruFF80WsyEwhofIXAQ9YC_zOwB8bB990"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Attack Scenario 2",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Overview",
+          "id": "1qiutPqEHY2Kc30RwwQiqjzgYnl4kvYoM",
+          "anchor": "v-1qiutPqEHY2Kc30RwwQiqjzgYnl4kvYoM",
+          "href": "s6.html#v-1qiutPqEHY2Kc30RwwQiqjzgYnl4kvYoM"
+        },
+        {
+          "number": 2,
+          "title": "Creating and Executing Attack - Part 1",
+          "id": "1ruyoLJswwYnTN0VSpZfQy85nQIafMiq3",
+          "anchor": "v-1ruyoLJswwYnTN0VSpZfQy85nQIafMiq3",
+          "href": "s6.html#v-1ruyoLJswwYnTN0VSpZfQy85nQIafMiq3"
+        },
+        {
+          "number": 3,
+          "title": "Creating and Executing Attack - Part 2",
+          "id": "1s5dOACCCQSbPHVv_5G8iRTMx5NnKFVsu",
+          "anchor": "v-1s5dOACCCQSbPHVv_5G8iRTMx5NnKFVsu",
+          "href": "s6.html#v-1s5dOACCCQSbPHVv_5G8iRTMx5NnKFVsu"
+        },
+        {
+          "number": 4,
+          "title": "Reviewing the Attack",
+          "id": "1sDATxY9p4Bi-ralYGdPJqkfoS-7BrDT1",
+          "anchor": "v-1sDATxY9p4Bi-ralYGdPJqkfoS-7BrDT1",
+          "href": "s6.html#v-1sDATxY9p4Bi-ralYGdPJqkfoS-7BrDT1"
+        },
+        {
+          "number": 5,
+          "title": "Creating Alerts",
+          "id": "1sDT2AOjP6mfHA6Y_4VTIQ9t9DZvQN24j",
+          "anchor": "v-1sDT2AOjP6mfHA6Y_4VTIQ9t9DZvQN24j",
+          "href": "s6.html#v-1sDT2AOjP6mfHA6Y_4VTIQ9t9DZvQN24j"
+        },
+        {
+          "number": 6,
+          "title": "Confirming our Detections",
+          "id": "1sEr5JXIVeYyIif0JwndRrJCGk0EH4rmf",
+          "anchor": "v-1sEr5JXIVeYyIif0JwndRrJCGk0EH4rmf",
+          "href": "s6.html#v-1sEr5JXIVeYyIif0JwndRrJCGk0EH4rmf"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Attack Scenario 3",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Overview",
+          "id": "1rJylTEBIvVKJEjTv_Qs03eTNZAKrsokA",
+          "anchor": "v-1rJylTEBIvVKJEjTv_Qs03eTNZAKrsokA",
+          "href": "s7.html#v-1rJylTEBIvVKJEjTv_Qs03eTNZAKrsokA"
+        },
+        {
+          "number": 2,
+          "title": "Staging our Attack",
+          "id": "1sR0mmBwvpoM8JHZrAA2GUgCI-UPQLL-x",
+          "anchor": "v-1sR0mmBwvpoM8JHZrAA2GUgCI-UPQLL-x",
+          "href": "s7.html#v-1sR0mmBwvpoM8JHZrAA2GUgCI-UPQLL-x"
+        },
+        {
+          "number": 3,
+          "title": "Creating and Executing our Attack",
+          "id": "1sZXL9pUKz8GEw9N22aPKeveloNNu3qMd",
+          "anchor": "v-1sZXL9pUKz8GEw9N22aPKeveloNNu3qMd",
+          "href": "s7.html#v-1sZXL9pUKz8GEw9N22aPKeveloNNu3qMd"
+        },
+        {
+          "number": 4,
+          "title": "Creating our Detections",
+          "id": "1saNe4STQ8kUUFNDUWPg5LOWTnRpwBTGf",
+          "anchor": "v-1saNe4STQ8kUUFNDUWPg5LOWTnRpwBTGf",
+          "href": "s7.html#v-1saNe4STQ8kUUFNDUWPg5LOWTnRpwBTGf"
+        },
+        {
+          "number": 5,
+          "title": "Confirming our Detections",
+          "id": "1sdhT29INwB_N36MeyWt_7c2vDQzouoVN",
+          "anchor": "v-1sdhT29INwB_N36MeyWt_7c2vDQzouoVN",
+          "href": "s7.html#v-1sdhT29INwB_N36MeyWt_7c2vDQzouoVN"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Atomic Red Team",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Atomic Red Team Introduction",
+          "id": "1sk_wPrQA37JyjlzewXL6g90DYz8uSZeN",
+          "anchor": "v-1sk_wPrQA37JyjlzewXL6g90DYz8uSZeN",
+          "href": "s8.html#v-1sk_wPrQA37JyjlzewXL6g90DYz8uSZeN"
+        },
+        {
+          "number": 2,
+          "title": "Installation",
+          "id": "1sbfO6bBsWLUKvZj6awOwTsDU_Fup9LAC",
+          "anchor": "v-1sbfO6bBsWLUKvZj6awOwTsDU_Fup9LAC",
+          "href": "s8.html#v-1sbfO6bBsWLUKvZj6awOwTsDU_Fup9LAC"
+        },
+        {
+          "number": 3,
+          "title": "Running our First Atomic",
+          "id": "1sl2iikdGudqqBx3g6rApXwL1BRXv6Gj2",
+          "anchor": "v-1sl2iikdGudqqBx3g6rApXwL1BRXv6Gj2",
+          "href": "s8.html#v-1sl2iikdGudqqBx3g6rApXwL1BRXv6Gj2"
+        },
+        {
+          "number": 4,
+          "title": "Writing our First Atomic",
+          "id": "1srmPfXhiL4dVnKu3lJXrizMaRbgIxeUS",
+          "anchor": "v-1srmPfXhiL4dVnKu3lJXrizMaRbgIxeUS",
+          "href": "s8.html#v-1srmPfXhiL4dVnKu3lJXrizMaRbgIxeUS"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "TOML",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "TOML Overview",
+          "id": "1swmtV0O7cAJ0debyNykMOQwTFMSPW21P",
+          "anchor": "v-1swmtV0O7cAJ0debyNykMOQwTFMSPW21P",
+          "href": "s9.html#v-1swmtV0O7cAJ0debyNykMOQwTFMSPW21P"
+        },
+        {
+          "number": 2,
+          "title": "Setting up a Development Environment",
+          "id": "1syQ2P8YYuxjORDdQWWDqQlJIScsdoz5H",
+          "anchor": "v-1syQ2P8YYuxjORDdQWWDqQlJIScsdoz5H",
+          "href": "s9.html#v-1syQ2P8YYuxjORDdQWWDqQlJIScsdoz5H"
+        },
+        {
+          "number": 3,
+          "title": "Reviewing Elastic Rule TOML",
+          "id": "1sz54R0BylB40ZcrXkvqRI4-K7hhn9B96",
+          "anchor": "v-1sz54R0BylB40ZcrXkvqRI4-K7hhn9B96",
+          "href": "s9.html#v-1sz54R0BylB40ZcrXkvqRI4-K7hhn9B96"
+        },
+        {
+          "number": 4,
+          "title": "Working with the Elastic Detection Rules Repo",
+          "id": "1szs-AHH5pQ8fsomHBtqH2oe1iITEvZWU",
+          "anchor": "v-1szs-AHH5pQ8fsomHBtqH2oe1iITEvZWU",
+          "href": "s9.html#v-1szs-AHH5pQ8fsomHBtqH2oe1iITEvZWU"
+        },
+        {
+          "number": 5,
+          "title": "Validating TOML Syntax Using Taplo",
+          "id": "1t0216qz2L1cp_1lvHvsqRnjyg_EJ5hsA",
+          "anchor": "v-1t0216qz2L1cp_1lvHvsqRnjyg_EJ5hsA",
+          "href": "s9.html#v-1t0216qz2L1cp_1lvHvsqRnjyg_EJ5hsA"
+        },
+        {
+          "number": 6,
+          "title": "Creating an Elastic TOML Template",
+          "id": "1t7F1CUucDFwGPO2ptV8oFc7UFGJyJXMB",
+          "anchor": "v-1t7F1CUucDFwGPO2ptV8oFc7UFGJyJXMB",
+          "href": "s9.html#v-1t7F1CUucDFwGPO2ptV8oFc7UFGJyJXMB"
+        },
+        {
+          "number": 7,
+          "title": "Enforcing TOML Required Fields",
+          "id": "1t89hbIoxNmZ0UhSj3yZrHezJALIR9i7v",
+          "anchor": "v-1t89hbIoxNmZ0UhSj3yZrHezJALIR9i7v",
+          "href": "s9.html#v-1t89hbIoxNmZ0UhSj3yZrHezJALIR9i7v"
+        },
+        {
+          "number": 8,
+          "title": "Creating a MITRE Object in Python",
+          "id": "1tMQnspJuVk4YoqQQjwubJYPXFPmeS_nV",
+          "anchor": "v-1tMQnspJuVk4YoqQQjwubJYPXFPmeS_nV",
+          "href": "s9.html#v-1tMQnspJuVk4YoqQQjwubJYPXFPmeS_nV"
+        },
+        {
+          "number": 9,
+          "title": "Working with Multiple TOML Files",
+          "id": "1tRXow7wqf1GedxjUVILpe4adYV0B-rPf",
+          "anchor": "v-1tRXow7wqf1GedxjUVILpe4adYV0B-rPf",
+          "href": "s9.html#v-1tRXow7wqf1GedxjUVILpe4adYV0B-rPf"
+        },
+        {
+          "number": 10,
+          "title": "Validating MITRE Data in our TOML - Part 1",
+          "id": "1tSde-HezIUG0V3ULik894WYtAoopa1pk",
+          "anchor": "v-1tSde-HezIUG0V3ULik894WYtAoopa1pk",
+          "href": "s9.html#v-1tSde-HezIUG0V3ULik894WYtAoopa1pk"
+        },
+        {
+          "number": 11,
+          "title": "Validating MITRE Data in our TOML - Part 2",
+          "id": "1tTXTegjo2bFo7rWgOoA8sxlkiQl9_nrE",
+          "anchor": "v-1tTXTegjo2bFo7rWgOoA8sxlkiQl9_nrE",
+          "href": "s9.html#v-1tTXTegjo2bFo7rWgOoA8sxlkiQl9_nrE"
+        },
+        {
+          "number": 12,
+          "title": "Converting and Validating our Detections",
+          "id": "1tbddF3XL01RnyZuZmXGAtcccducqGhiD",
+          "anchor": "v-1tbddF3XL01RnyZuZmXGAtcccducqGhiD",
+          "href": "s9.html#v-1tbddF3XL01RnyZuZmXGAtcccducqGhiD"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Elastic API",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1teII1XN-4fwSuf3BWV9LjiVXFAivsDmS",
+          "anchor": "v-1teII1XN-4fwSuf3BWV9LjiVXFAivsDmS",
+          "href": "s10.html#v-1teII1XN-4fwSuf3BWV9LjiVXFAivsDmS"
+        },
+        {
+          "number": 2,
+          "title": "Obtaining your API Key",
+          "id": "1tgmjyOWKg-pMErgYEPz0JC862jJOW9pN",
+          "anchor": "v-1tgmjyOWKg-pMErgYEPz0JC862jJOW9pN",
+          "href": "s10.html#v-1tgmjyOWKg-pMErgYEPz0JC862jJOW9pN"
+        },
+        {
+          "number": 3,
+          "title": "Pushing a Sample Rule",
+          "id": "1ttz0FQspy5zfFdvi8Cj75AdYZEKLxYDx",
+          "anchor": "v-1ttz0FQspy5zfFdvi8Cj75AdYZEKLxYDx",
+          "href": "s10.html#v-1ttz0FQspy5zfFdvi8Cj75AdYZEKLxYDx"
+        },
+        {
+          "number": 4,
+          "title": "Writing a TOML to JSON Script",
+          "id": "1u3zQyvWdcLocz2Xy5_aKHGB293JRop-X",
+          "anchor": "v-1u3zQyvWdcLocz2Xy5_aKHGB293JRop-X",
+          "href": "s10.html#v-1u3zQyvWdcLocz2Xy5_aKHGB293JRop-X"
+        },
+        {
+          "number": 5,
+          "title": "GET-ing Our First Rule and Managing Rule IDs",
+          "id": "1u4x-kPc9YzWPtOIhyj0ip591akcomA0Q",
+          "anchor": "v-1u4x-kPc9YzWPtOIhyj0ip591akcomA0Q",
+          "href": "s10.html#v-1u4x-kPc9YzWPtOIhyj0ip591akcomA0Q"
+        },
+        {
+          "number": 6,
+          "title": "Working with our Custom Detections",
+          "id": "1u6ZDFVW2U-MxZF1kkO_xYcNWHiun8luy",
+          "anchor": "v-1u6ZDFVW2U-MxZF1kkO_xYcNWHiun8luy",
+          "href": "s10.html#v-1u6ZDFVW2U-MxZF1kkO_xYcNWHiun8luy"
+        },
+        {
+          "number": 7,
+          "title": "Updating our Custom Detections",
+          "id": "1u7Rln0HPWbtDDeEFPp3sRpgk0TXTpEcG",
+          "anchor": "v-1u7Rln0HPWbtDDeEFPp3sRpgk0TXTpEcG",
+          "href": "s10.html#v-1u7Rln0HPWbtDDeEFPp3sRpgk0TXTpEcG"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "GitHub",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Overview",
+          "id": "1uL-f8LDzjBzxkrRqw4lXFYsLXZXIW_i5",
+          "anchor": "v-1uL-f8LDzjBzxkrRqw4lXFYsLXZXIW_i5",
+          "href": "s11.html#v-1uL-f8LDzjBzxkrRqw4lXFYsLXZXIW_i5"
+        },
+        {
+          "number": 2,
+          "title": "GitHub Actions Introduction",
+          "id": "1uLz28Z9MvQGPZ6t5jfmBgUkg54FRwkcD",
+          "anchor": "v-1uLz28Z9MvQGPZ6t5jfmBgUkg54FRwkcD",
+          "href": "s11.html#v-1uLz28Z9MvQGPZ6t5jfmBgUkg54FRwkcD"
+        },
+        {
+          "number": 3,
+          "title": "Uploading our Detections and Code",
+          "id": "1uNT_iJ9W0luqbp6zEQ7_0mJaP1Ou3ldb",
+          "anchor": "v-1uNT_iJ9W0luqbp6zEQ7_0mJaP1Ou3ldb",
+          "href": "s11.html#v-1uNT_iJ9W0luqbp6zEQ7_0mJaP1Ou3ldb"
+        },
+        {
+          "number": 4,
+          "title": "Creating our TOML Validation Action",
+          "id": "1uNlidZmtgFpNKx2Gt9v-ZA_YGpNFEr7t",
+          "anchor": "v-1uNlidZmtgFpNKx2Gt9v-ZA_YGpNFEr7t",
+          "href": "s11.html#v-1uNlidZmtgFpNKx2Gt9v-ZA_YGpNFEr7t"
+        },
+        {
+          "number": 5,
+          "title": "Enforcing Validation Checks",
+          "id": "1uQjNa0laUL8AdJunAOuyIjld3tYLeRAx",
+          "anchor": "v-1uQjNa0laUL8AdJunAOuyIjld3tYLeRAx",
+          "href": "s11.html#v-1uQjNa0laUL8AdJunAOuyIjld3tYLeRAx"
+        },
+        {
+          "number": 6,
+          "title": "Syncing with Elastic - Part 1",
+          "id": "1uWgP0x0DqaIy77hZjG_Zizff8jf3iUUI",
+          "anchor": "v-1uWgP0x0DqaIy77hZjG_Zizff8jf3iUUI",
+          "href": "s11.html#v-1uWgP0x0DqaIy77hZjG_Zizff8jf3iUUI"
+        },
+        {
+          "number": 7,
+          "title": "Syncing with Elastic - Part 2",
+          "id": "1udbhPna74tvdAreBNA4IFvUMPJJFluGm",
+          "anchor": "v-1udbhPna74tvdAreBNA4IFvUMPJJFluGm",
+          "href": "s11.html#v-1udbhPna74tvdAreBNA4IFvUMPJJFluGm"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Metrics",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Overview",
+          "id": "1umx2BtRw52qPBL0oxs98gYLYdkzL6T6f",
+          "anchor": "v-1umx2BtRw52qPBL0oxs98gYLYdkzL6T6f",
+          "href": "s12.html#v-1umx2BtRw52qPBL0oxs98gYLYdkzL6T6f"
+        },
+        {
+          "number": 2,
+          "title": "Converting our TOML to CSV",
+          "id": "1uzdti6J_AaiomjpYuj4csbSSkdA1pU2p",
+          "anchor": "v-1uzdti6J_AaiomjpYuj4csbSSkdA1pU2p",
+          "href": "s12.html#v-1uzdti6J_AaiomjpYuj4csbSSkdA1pU2p"
+        },
+        {
+          "number": 3,
+          "title": "Converting TOML to MD",
+          "id": "1v2jxXEWOXpyouqoIcslROlaCr1QxAdDm",
+          "anchor": "v-1v2jxXEWOXpyouqoIcslROlaCr1QxAdDm",
+          "href": "s12.html#v-1v2jxXEWOXpyouqoIcslROlaCr1QxAdDm"
+        },
+        {
+          "number": 4,
+          "title": "Converting our TOML to Att&ck Navigator .JSON",
+          "id": "1v8O9V-Ae1HJq7w0qk0WjduJA_N8GEUyv",
+          "anchor": "v-1v8O9V-Ae1HJq7w0qk0WjduJA_N8GEUyv",
+          "href": "s12.html#v-1v8O9V-Ae1HJq7w0qk0WjduJA_N8GEUyv"
+        },
+        {
+          "number": 5,
+          "title": "Creating our Metrics GitHub Action",
+          "id": "1vAuVohqVPqy23PhIkIl_tTF24atwQK1A",
+          "anchor": "v-1vAuVohqVPqy23PhIkIl_tTF24atwQK1A",
+          "href": "s12.html#v-1vAuVohqVPqy23PhIkIl_tTF24atwQK1A"
+        },
+        {
+          "number": 6,
+          "title": "Creating Status Badges",
+          "id": "1vO7vi1Fcet0r2SmL14ZDnZl258KtNOtM",
+          "anchor": "v-1vO7vi1Fcet0r2SmL14ZDnZl258KtNOtM",
+          "href": "s12.html#v-1vO7vi1Fcet0r2SmL14ZDnZl258KtNOtM"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Conclusion",
+      "page": "s13.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Farewell - TCM Security Inc. - 1918x1080 572K",
+          "id": "1vLgCHmNQnpAO7JC-4gyORw0FkqrxTw4x",
+          "anchor": "v-1vLgCHmNQnpAO7JC-4gyORw0FkqrxTw4x",
+          "href": "s13.html#v-1vLgCHmNQnpAO7JC-4gyORw0FkqrxTw4x"
+        }
+      ]
+    }
+  ]
+}
